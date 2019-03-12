@@ -1,0 +1,6 @@
+exchanges:
+  - name: binance
+    api_key: null
+    api_secret: null
+database:
+  path: configs/config.db
